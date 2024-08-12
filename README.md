@@ -3,7 +3,7 @@ This projects is all about the analysis of a beverage store. Diving into their s
 
 ![Screenshot (55)](https://github.com/user-attachments/assets/1f52fa76-9894-4352-9b52-70848cf1c328)
 
-
+## **Key Insights**
 🚀 **Total Sales and Profit:**
 - The beverage store achieved an impressive **$55,738** in total sales and a **$21,241** profit, reflecting a solid profit margin of **38%**. 
 
@@ -23,4 +23,4 @@ This projects is all about the analysis of a beverage store. Diving into their s
 
 ---
 
-This analysis not only showcases the dashboard’s key features but also demonstrates your ability to draw actionable insights from data, which is a valuable skill for your students to learn.
+This analysis not only showcases the dashboard’s key features but also demonstrates your ability to draw actionable insights from data.
